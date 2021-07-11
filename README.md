@@ -16,7 +16,7 @@
 
 - 🔭 Y este tambien 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nhillus&repo=Swiff_web)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nhillus&repo=Swiff_web)
 
 
 ![Nhillus's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nhillus&theme=dracula&custom_title=Ultimos+31+Dias+de+9+kill+pdi)
