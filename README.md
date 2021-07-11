@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B7909&multiline=true&width=500&height=400&lines=penetrate%22+%3D%3D+typeof+%24.accessRequest+%26%26;+++++++++(%24.accessRqst+%3D+!+0)%2C;++++function(a%2Cb%2Cc)+%7B;++++++function+d(c)+%7B;var+d+%3D+b.console;f%5BC%5D+%7C%7C+(f%5Bc%5D+%3D+!0);a.migrateWarning.push(c)%2C;d+%26%26+d.warn+%26%26+!a.accessRqst+%26%26+;(d.warn(%22BankTranfer%3A+%22+%2B+c)%2C;a.migrateTrace+%26%26+d.trace+;%26%26+d.trace()))
 
-[![Nhillus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nhillus)](https://github.com/anuraghazra/github-readme-stats)
+[![Nhillus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nhillus&count_private=true)]
+
 
 
 <!--
