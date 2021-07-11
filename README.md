@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Estamos+dentro+.+.+...+penetrate"+==+typeof+$.accessRequest+&&($.accessRqst=!0),function(a,b,c){+))](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on ...
 
 <!--
