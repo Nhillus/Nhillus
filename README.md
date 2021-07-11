@@ -6,11 +6,17 @@
 ![Nhillus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nhillus&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhillus&layout=compact&theme=tokyonight)
-- 🔭 I’m currently working on ..
+
+
 [![Nhillus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nhillus&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nhillus&repo=Tiendaderopa)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on .. ↓↓↓
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nhillus&repo=Tiendaderopa)]
+
+- 🔭 Y este tambien 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nhillus&repo=Swiff_web)]
 
 
 ![Nhillus's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nhillus&theme=dracula&custom_title=Ultimos+31+Dias+de+9+kill+pdi)
