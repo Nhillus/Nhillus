@@ -8,11 +8,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhillus&layout=compact&theme=tokyonight)
 
 
-[![Nhillus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nhillus&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Nhillus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nhillus&theme=tokyonight)
 
 - 🔭 I’m currently working on .. ↓↓↓
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nhillus&repo=Tiendaderopa)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nhillus&repo=Tiendaderopa)
 
 - 🔭 Y este tambien 
 
