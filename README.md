@@ -7,6 +7,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhillus&layout=compact&theme=tokyonight)
 
+[![Nhillus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nhillus&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Nhillus's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nhillus&theme=dracula&custom_title=Ultimos+31+Dias+de+9+kill+pdi)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nhillus&theme=tokyonight&hide_border=true&ring=DD2727)
