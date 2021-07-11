@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Estamos+dentro+.+.+...+penetrate"+==+typeof+$.accessRequest+&&($.accessRqst=!0),function(a,b,c){+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B7909&lines=penetrate%22+%3D%3D+typeof+%24.accessRequest+%26%26+;+++++++++(%24.accessRqst+%3D+!+0)%2C;++++function(a%2Cb%2Cc)+%7B;++++++function+d(c)+%7B;var+d+%3D+)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 
