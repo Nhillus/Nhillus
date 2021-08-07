@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhillus&layout=compact&theme=tokyonight)
 
 
-![Nhillus's wakatime stats Last 7 Days](https://github-readme-stats.vercel.app/api/wakatime?username=Nhillus&v=2&theme=dark)
+![Nhillus's wakatime stats Last 7 Days](https://github-readme-stats.vercel.app/api/wakatime?username=&v=2&theme=dark)
 
 - 🔭 I’m currently working on .. ↓↓↓
 
